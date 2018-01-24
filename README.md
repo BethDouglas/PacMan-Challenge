@@ -1,2 +1,2 @@
 # PacMan-Challenge
-![ScreenShot] (/IMG_8968.JPG)
+[Imgur](https://i.imgur.com/lbGGzUw.jpg)
