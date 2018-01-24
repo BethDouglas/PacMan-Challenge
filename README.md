@@ -1,2 +1,2 @@
 # PacMan-Challenge
-![ScreenShot] (./IMG_8968.JPG)
+![ScreenShot] (/IMG_8968.JPG)
